@@ -30,6 +30,7 @@ My academic and professional experiences span energy data, geopolitical research
 
 - [**Global OTT Content Analytics on AWS**](https://github.com/poojamiishra/global-ott-analytics-aws) - An AWS Glue and PySpark pipeline integrating Netflix and TVMaze data, with Athena validation and a Tableau dashboard.
 - [**Airline Analytics Data Warehouse**](https://github.com/poojamiishra/airline-analytics-data-warehouse) - A PostgreSQL warehouse with Talend ETL, dimensional modeling, Type 2 history, and Tableau reporting.
+- [**Object Recognition with Deep Learning**](https://github.com/imangoman/IE7615-Object-Recognition) - A collaborative group project comparing CNN, EfficientNet-B0, YOLO11s, and Faster R-CNN for single-object recognition, then fine-tuning YOLOv8s for multi-object detection across 73 classes.
 
 ## What's next
 
